@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(0deg,rgb(184, 233, 238), rgb(16, 169, 207));
+    text-align: center;
+}
+
+.imagem{
+    align-items: center;
+    size: medium;
+    width: 49%;
+    padding: 3px;
+}
+
+img{
+    align-items: center;
+    size: medium;
+    width: 50%;
+    padding: 3px;
+    display: flexbox;
+}
+
+.imagem2{
+    width: 74%;
+}
+
+h1{
+    text-align: center;
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    text-align: left;
+    color: gray;
+    text-shadow: black 4px 3px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+p{
+    text-align: center;
+    text-align: justify;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 25px;
+    text-shadow: black 1px 2px 6px;
+    justify-content: center;
+    display: block;
+    padding: 63px;
+}
+
+.caixa{
+    background-color: rgb(76, 117, 148);
+    width: auto;
+    margin: 5.8%;
+    padding: 30px;
+    align-items: center;
+}
